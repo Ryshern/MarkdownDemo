@@ -15,3 +15,8 @@ i write only in python, watch out!
 <html>
 
 ```
+
+8-) 8-) 8-) 8-) 8-) 8-) 8-)
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+
